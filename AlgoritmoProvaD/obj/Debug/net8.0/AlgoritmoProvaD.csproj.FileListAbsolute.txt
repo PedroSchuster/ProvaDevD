@@ -1,0 +1,14 @@
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\bin\Debug\net8.0\AlgoritmoProvaD.exe
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\bin\Debug\net8.0\AlgoritmoProvaD.deps.json
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\bin\Debug\net8.0\AlgoritmoProvaD.runtimeconfig.json
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\bin\Debug\net8.0\AlgoritmoProvaD.dll
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\bin\Debug\net8.0\AlgoritmoProvaD.pdb
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\obj\Debug\net8.0\AlgoritmoProvaD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\obj\Debug\net8.0\AlgoritmoProvaD.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\obj\Debug\net8.0\AlgoritmoProvaD.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\obj\Debug\net8.0\AlgoritmoProvaD.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\obj\Debug\net8.0\AlgoritmoProvaD.dll
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\obj\Debug\net8.0\refint\AlgoritmoProvaD.dll
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\obj\Debug\net8.0\AlgoritmoProvaD.pdb
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\obj\Debug\net8.0\AlgoritmoProvaD.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Área de Trabalho\AlgoritmoProvaD\AlgoritmoProvaD\obj\Debug\net8.0\ref\AlgoritmoProvaD.dll
